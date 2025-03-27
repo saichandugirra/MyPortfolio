@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 # npm install
 
 // To Run the Project
+
+# npm run dev
